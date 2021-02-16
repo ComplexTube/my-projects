@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  game-controller.cpp
+C:\SFMLProjects\Project1\Project1\game-controller.cpp(14,66): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\SFMLProjects\Project1\Project1\game-controller.cpp(14,42): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\SFMLProjects\Project1\Project1\game-controller.cpp(16,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\SFMLProjects\Project1\Project1\game-controller.cpp(16,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\SFMLProjects\Project1\Project1\game-controller.cpp(22,56): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\SFMLProjects\Project1\Project1\game-controller.cpp(54,89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\SFMLProjects\Project1\Project1\game-controller.cpp(54,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\SFMLProjects\Project1\Project1\game-controller.cpp(59,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Project1.vcxproj -> C:\SFMLProjects\Project1\Debug\SnakeGame.exe
