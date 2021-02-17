@@ -1,39 +1,39 @@
 ﻿  main.cpp
-C:\SFMLProjects\OutputNumber\OutputNumber\mnist\mnist_reader_common.hpp(46,45): warning C4244: инициализация: преобразование "std::streamoff" в "unsigned int", возможна потеря данных
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(18,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(21,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(23,84): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\mnist\mnist_reader_common.hpp(46,45): warning C4244: инициализация: преобразование "std::streamoff" в "unsigned int", возможна потеря данных
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(18,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(23,84): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
           with
           [
               _Ty=float
           ]
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(48,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(50,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(63,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(65,81): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(48,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(50,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(63,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(65,81): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
           with
           [
               _Ty=float
           ]
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(29,1): warning C4305: инициализация: усечение из "double" в "const float"
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(36): message : во время компиляции функции-члена класс шаблон "Perceptron<float>::Perceptron(const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &,const std::vector<std::seed_seq::result_type,std::allocator<sf::Uint32>> &,const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &)"
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(42): message : выполняется компиляция ссылки на экземпляр шаблон функции "Perceptron<float>::Perceptron(const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &,const std::vector<std::seed_seq::result_type,std::allocator<sf::Uint32>> &,const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &)"
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(42): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Perceptron<float>"
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(87,86): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(163,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(162): message : во время компиляции функции-члена класс шаблон "void Perceptron<float>::learn(const unsigned int)"
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Perceptron<float>::learn(const unsigned int)"
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(166,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(182,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(177): message : во время компиляции функции-члена класс шаблон "void Perceptron<float>::solve(const std::vector<float,std::allocator<float>> &)"
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(67): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Perceptron<float>::solve(const std::vector<float,std::allocator<float>> &)"
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(107,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(106): message : во время компиляции функции-члена класс шаблон "void Perceptron<float>::backPropogation(const std::vector<float,std::allocator<float>> &)"
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(170): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Perceptron<float>::backPropogation(const std::vector<float,std::allocator<float>> &)"
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(36): message : во время компиляции функции-члена класс шаблон "Perceptron<float>::Perceptron(const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &,const std::vector<std::seed_seq::result_type,std::allocator<sf::Uint32>> &,const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &)"
-C:\SFMLProjects\OutputNumber\OutputNumber\main.cpp(42): message : выполняется компиляция ссылки на экземпляр шаблон функции "Perceptron<float>::Perceptron(const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &,const std::vector<std::seed_seq::result_type,std::allocator<sf::Uint32>> &,const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &)"
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(147,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(144): message : во время компиляции функции-члена класс шаблон "void Perceptron<float>::passForward(void)"
-C:\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(169): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Perceptron<float>::passForward(void)"
-  OutputNumber.vcxproj -> C:\SFMLProjects\OutputNumber\Debug\OutputNumber.exe
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(29,1): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(36): message : во время компиляции функции-члена класс шаблон "Perceptron<float>::Perceptron(const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &,const std::vector<std::seed_seq::result_type,std::allocator<sf::Uint32>> &,const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(42): message : выполняется компиляция ссылки на экземпляр шаблон функции "Perceptron<float>::Perceptron(const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &,const std::vector<std::seed_seq::result_type,std::allocator<sf::Uint32>> &,const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(42): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Perceptron<float>"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(87,86): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(163,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(162): message : во время компиляции функции-члена класс шаблон "void Perceptron<float>::learn(const unsigned int)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Perceptron<float>::learn(const unsigned int)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(166,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(182,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(177): message : во время компиляции функции-члена класс шаблон "void Perceptron<float>::solve(const std::vector<float,std::allocator<float>> &)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(67): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Perceptron<float>::solve(const std::vector<float,std::allocator<float>> &)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(107,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(106): message : во время компиляции функции-члена класс шаблон "void Perceptron<float>::backPropogation(const std::vector<float,std::allocator<float>> &)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(170): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Perceptron<float>::backPropogation(const std::vector<float,std::allocator<float>> &)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(36): message : во время компиляции функции-члена класс шаблон "Perceptron<float>::Perceptron(const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &,const std::vector<std::seed_seq::result_type,std::allocator<sf::Uint32>> &,const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\main.cpp(42): message : выполняется компиляция ссылки на экземпляр шаблон функции "Perceptron<float>::Perceptron(const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &,const std::vector<std::seed_seq::result_type,std::allocator<sf::Uint32>> &,const std::vector<std::vector<float,std::allocator<float>>,std::allocator<std::vector<float,std::allocator<float>>>> &)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(147,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(144): message : во время компиляции функции-члена класс шаблон "void Perceptron<float>::passForward(void)"
+C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\OutputNumber\NN\perceptron.hpp(169): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Perceptron<float>::passForward(void)"
+  OutputNumber.vcxproj -> C:\Users\h'\Documents\GitHub\my-projects\SFMLProjects\OutputNumber\Debug\OutputNumber.exe
